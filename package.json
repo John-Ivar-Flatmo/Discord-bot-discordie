@@ -1,0 +1,21 @@
+{
+  "name": "jifmusicbot",
+  "version": "0.1.0",
+  "description": "unfinished stage",
+  "main": "Bot.js",
+  "dependencies": {
+    "discordie": "^0.9.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "lame": "^1.2.4",
+    "nodemon": "^1.14.12",
+    "youtube-node": "^1.3.2",
+    "ytdl-core": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon Bot.js"
+  },
+  "author": "John Ivar Flatmo",
+  "license": "ISC"
+}
