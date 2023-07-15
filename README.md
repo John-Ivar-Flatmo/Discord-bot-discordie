@@ -1,5 +1,5 @@
 # Discord-bot-discordie
-# A discord bot i made when i was younger, aside from discordie being discontinued the code shuld be funcitonal, it wuld need significant work to  working.
+# A discord bot i made when i was younger, aside from discordie being discontinued the code shuld be funcitonal, it wuld need significant work to get working.
 
 ##this bot was made for my own personal use only, therefor alot of personal datails bot token api keys and the like has been removed
 ##the bot will not function without these provided
